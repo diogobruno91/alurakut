@@ -11,6 +11,7 @@ function ProfileSideBar(props) {
   )
 }
 
+
 export default function Home() {
   //user = omariosouto
   const githubUser = 'diogobruno91'
